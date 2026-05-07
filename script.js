@@ -81,3 +81,4 @@ timelineItems.forEach(item => {
 });
 
 if (timelineItems.length > 0) timelineObserver.observe(document.querySelector('#achievements'));
+
