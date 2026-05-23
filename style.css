@@ -465,17 +465,6 @@ section {
   transform: translateY(-3px);
   box-shadow: 0 8px 24px rgba(79,70,229,0.25);
 }
-/* ── Leetcode ── */
-.leetcode-image {
-  margin: 20px 0;
-  text-align: center; /* centers the image */
-}
-
-.leetcode-image img {
-  max-width: 100%;   /* responsive scaling */
-  border-radius: 12px;
-  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
-}
 
 
 /* ── PROJECTS ── */
